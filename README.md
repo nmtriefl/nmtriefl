@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-end Developer
 -------------------
 
-I’m a passionate Frontend Developer with handson experience in ReactJS and modern web technologies. I’ve built user-friendly interfaces for real-world projects like a job-seeking platform and a classroom management system. I focus on clean code, responsive design, and delivering smooth user experiences. Always eager to learn and grow in a collaborative environment.
+I’m a passionate Frontend Developer with hands-on experience in ReactJS and modern web technologies. I’ve built user-friendly interfaces for real-world projects like a job-seeking platform and a classroom management system. I focus on clean code, responsive design, and delivering smooth user experiences. Always eager to learn and grow in a collaborative environment.
 
 * 🌍  I'm based in HCMC, Vietnam
 * ✉️  You can contact me at [nmtri.efl@gmail.com](mailto:nmtri.efl@gmail.com)
